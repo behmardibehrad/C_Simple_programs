@@ -4,9 +4,9 @@ int main(int argc, char*argv[])
 
 {
 
-int first_number;
-int second_number;
-int sum=0 ;
+int first_number=0;
+int second_number=0;
+int sum=0;
 
 
 
